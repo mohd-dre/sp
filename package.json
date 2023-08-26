@@ -1,8 +1,7 @@
 {
-  "name": "studiopanda-dev",
+  "name": "studiopanda",
   "version": "0.1.0",
   "private": true,
-  "node": "16.x",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -24,7 +23,6 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-intersection-observer": "^8.30.3",
-    "react-scripts": "^5.0.1",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
