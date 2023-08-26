@@ -2,7 +2,7 @@
   "name": "studiopanda-dev",
   "version": "0.1.0",
   "private": true,
-  "node": "20.x",
+  "node": "18.x",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
