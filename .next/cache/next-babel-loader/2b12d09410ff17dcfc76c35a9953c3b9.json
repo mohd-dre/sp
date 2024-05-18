@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './StickyCursor';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/StickyCursor/index.js"],"sourcesContent":["export { default } from './StickyCursor';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,gBAAgB"},"metadata":{},"sourceType":"module"}

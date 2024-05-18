@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './CanvasEraser';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/CanvasEraser/index.js"],"sourcesContent":["export { default } from './CanvasEraser';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,gBAAgB"},"metadata":{},"sourceType":"module"}

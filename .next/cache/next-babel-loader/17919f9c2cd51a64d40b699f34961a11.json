@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './About';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/Home/About/index.js"],"sourcesContent":["export { default } from './About';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,SAAS"},"metadata":{},"sourceType":"module"}

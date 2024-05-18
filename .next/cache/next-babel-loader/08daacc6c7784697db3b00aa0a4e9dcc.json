@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './SocialMedia';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/SocialMedia/index.js"],"sourcesContent":["export { default } from './SocialMedia';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,eAAe"},"metadata":{},"sourceType":"module"}

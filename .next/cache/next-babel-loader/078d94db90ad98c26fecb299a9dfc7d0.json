@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './SiteOfTheDay';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/SiteOfTheDay/index.js"],"sourcesContent":["export { default } from './SiteOfTheDay';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,gBAAgB"},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Cursor';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/Cursor/index.js"],"sourcesContent":["export { default } from './Cursor';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,UAAU"},"metadata":{},"sourceType":"module"}

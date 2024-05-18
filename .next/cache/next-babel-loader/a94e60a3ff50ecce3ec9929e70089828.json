@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './FeaturedProject';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/Home/FeaturedProject/index.js"],"sourcesContent":["export { default } from './FeaturedProject';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,mBAAmB"},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Backdrop';","map":{"version":3,"names":["default"],"sources":["/Users/mohd/Documents/GitHub/sp/components/Backdrop/index.js"],"sourcesContent":["export { default } from './Backdrop';\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,YAAY"},"metadata":{},"sourceType":"module"}
